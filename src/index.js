@@ -1,8 +1,12 @@
-const name = "rapbuild";
+const developer = {
+  name: "Rapi",
+  goal: "Become Software Engineer",
+  currentFocus: [
+    "Linux",
+    "Git",
+    "Github"
+  ]
+};
 
-function login(username) {
-  return `Welcome, ${username}!`;
-}
-
-console.log(name);
-console.log(login("Rapi"));
+console.log("Linux Git Journey Started");
+console.log(developer);
