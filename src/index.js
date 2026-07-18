@@ -1,4 +1,8 @@
 const name = "rapbuild";
 
+function login(username) {
+  return `Welcome, ${username}!`;
+}
+
 console.log(name);
-//perubahan baru
+console.log(login("Rapi"));
