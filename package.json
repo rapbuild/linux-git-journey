@@ -1,0 +1,21 @@
+{
+  "name": "journey",
+  "version": "1.0.0",
+  "description": "This repository documents my journey from learning Linux and Git fundamentals to building real-world backend applications.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rapbuild/linux-git-journey.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/rapbuild/linux-git-journey/issues"
+  },
+  "homepage": "https://github.com/rapbuild/linux-git-journey#readme"
+}
