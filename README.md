@@ -17,4 +17,4 @@ The goal is not just to complete tutorials, but to understand every concept deep
 - ✅ Day 5 - Git Diff
 - ✅ Day 6 - Git Branching
 - ✅ Day 7 - GitHub
-- ⏳ Day 8 - JavaScript Fundamentals
+- ✅ Day 8 - JavaScript Fundamentals
