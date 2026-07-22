@@ -1,5 +1,7 @@
-let name = "Rapi";
+const name = "Rapi";
+const age = 20;
+const dream = "Software Engineer";
 
-name = "Hanapi";
-
-console.log(name);
+console.log(`Name: ${name}
+Age: ${age}
+Dream: ${dream}`); 
