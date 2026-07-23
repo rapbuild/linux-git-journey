@@ -1,7 +1,1 @@
-const name = "Rapi";
-const age = 20;
-const dream = "Software Engineer";
-
-console.log(`Name: ${name}
-Age: ${age}
-Dream: ${dream}`); 
+console.log(10 + (5 + "2"));
